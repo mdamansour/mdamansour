@@ -18,7 +18,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -42,8 +42,28 @@
 
 ###
 
+<p align="left">Recent graduate from Bachelor of Science in Electrical Engineering, I am passionate about electronics, embedded systems, and automation. I am currently doing an internship with Aptiv as an Embedded Systems Engineering Intern. Diligent and motivated, I have developed practical expertise in electronic design, Embedded programming, and full-stack development.</p>
+
+###
+
 <br clear="both">
 
-<p align="left">Recent graduate from Bachelor of Science in Electrical Engineering, I am passionate about electronics, embedded systems, and automation. I am currently doing an internship with Aptiv as an Embedded Systems Engineering Intern. Diligent and motivated, I have developed practical expertise in electronic design, Embedded programming, and full-stack development.</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mdamansour/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/mdamansour" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/@mdamansour" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://instagram.com/mdamansour" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://facebook.com/mdamansour" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
 
 ###
